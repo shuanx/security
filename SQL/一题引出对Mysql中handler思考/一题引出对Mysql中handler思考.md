@@ -12,8 +12,6 @@ https://adworld.xctf.org.cn/task/answer?type=web&number=3&grade=1&id=5417&page=1
 
 ![image-20200621155254852](一题引出对Mysql中handler思考.assets/image-20200621155254852.png)
 
-
-
 通过输入单引号`1'`，根据回显结果可知道这是一个字符型SQL注入
 
 ![image-20200621155348312](一题引出对Mysql中handler思考.assets/image-20200621155348312.png)
